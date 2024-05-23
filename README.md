@@ -6,7 +6,7 @@ A rewrite of [sylk0s/cloudflare-ddns](https://github.com/sylk0s/cloudflare-ddns)
 1. I wanted to write the project in rust
 2. cloudflare-ddns was unreliable and hard to maintain
 
-Also, the rust clodflare library is still in development, and has little documentation, so I decided to just use `reqwest` to make http calls instead to their API since I'm just trying to do a hyperspecific thing.
+Also, the rust cloudflare library is still in development, and has little documentation, so I decided to just use `reqwest` to make http calls instead to their API since I'm just trying to do a hyperspecific thing.
 
 ## Usage
 
